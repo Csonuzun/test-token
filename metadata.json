@@ -1,0 +1,7 @@
+{
+  "name": "Dalgona Token",
+  "symbol": "DLGN",
+  "icon": "https://example.com/dalgona-icon.png",
+  "decimals": 9,
+  "mint_address": "YourTokenMintAddressHere"
+}
